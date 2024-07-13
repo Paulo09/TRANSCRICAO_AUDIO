@@ -1,6 +1,6 @@
 
                                                                                 
-                                                                                <big>Automate Protocol Extraction Process<\big>
+                                            Automate Protocol Extraction Process
                                                                                 
 12 de julho de 2024
 Esta conversa pode refletir os dados personalizados do criador do link, que não são compartilhados e podem alterar significativamente a forma como o modelo responde.
