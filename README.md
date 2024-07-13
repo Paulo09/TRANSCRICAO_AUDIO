@@ -1,4 +1,7 @@
-Automate Protocol Extraction Process
+
+                                                                                
+                                                                                <big>Automate Protocol Extraction Process<\big>
+                                                                                
 12 de julho de 2024
 Esta conversa pode refletir os dados personalizados do criador do link, que não são compartilhados e podem alterar significativamente a forma como o modelo responde.
 1 - Pegar as transcrições e detectar as transcrições que possuem o número de protocolo (protocolo, demanda, registro), de forma a conseguir 5000 transcrições que tenham informação de protocolo
